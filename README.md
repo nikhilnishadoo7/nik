@@ -1,5 +1,4 @@
 ## When studyig something
-slack link == https://hooks.slack.com/services/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
 when i ask you something ie. "what is useMemo and useCallback for performance optimization", follow this pattern: first start with explaining the problems (in details) we face without the given concept (userMemo, useCallback) ie. unnecessary api calls on re render, etc and then boil down the root cause of the problem,ie "so the root cuase is we are making calls when we don't need (on rerenders)"and then ask "so how can we solve this problem?" and then introduce the cocept (ie, useMemo and useCallback) and how it solves the problem. follow this natural chain of thought order while explaining things. 
 
 
